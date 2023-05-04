@@ -1,5 +1,5 @@
 # Blog-Sitesi
-Admin ve Yazar Panelli Blog Sitesi.Kullanıcıların üye olup blog ekleyebileceği bir site.
+
 ## UI Screenshots
 ### Site UI
 ![Screenshot_1](https://user-images.githubusercontent.com/80720849/236349923-bc6335df-f6e5-4633-a770-1b21a0291dff.png)
